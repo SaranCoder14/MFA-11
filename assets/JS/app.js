@@ -11,44 +11,6 @@ function charLength() {
 document.getElementById('length').addEventListener('change', charLength);
 
 
-// function saran(){
-// let password ="SARANFREAKY";
-// let output = password.toUpperCase();
- 
-// document.getElementById("saran").innerHTML=output;
-// }
-
-
-// document.getElementById("uppercase").addEventListener('click',function(){
-//     let password ="eiplrdsw";
-//     let output = password.toUpperCase();
-//     document.getElementById('password__result').value=output;
-
-// })
-
-// document.getElementById("lowercase").addEventListener('click',function(){
-//     let password ="Wjdjdia";
-//     // let output = password();
-//     document.getElementById('password__result').value=password;
-
-// })
-
-
-// document.getElementById("numbers").addEventListener('click',function(){
-//     let password ="Wkeido123";
-//     // let output = password();
-//     document.getElementById('password__result').value=password;
-
-// })
-
-
-
-// document.getElementById("symbols").addEventListener('click',function(){
-//     let password ="Rew12Fre12$";
-//     // let output = password();
-//     document.getElementById('password__result').value=password;
-
-// })
 
 let charLengths ;
 /*get the number of characters*/
